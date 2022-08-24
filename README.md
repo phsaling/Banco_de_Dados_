@@ -13,10 +13,12 @@ Nesta lista, por opção, produzi um script .sql para construção e manipulaç�
 Esta lista foi feita como treino dos comandos DDL.
 <li><a href="https://drive.google.com/file/d/1ycbY2aU0UQf9PDdXrWn8bLSGvyPzD5Bd/view?usp=sharing">Lista 03</a> - Comandos DDL;</li>
 Esta lista foi produzida para reforçar a estruturação correta do banco de dados, em comandos DDL, para uma futura inserção e manipulação de dados.
-<li><a href="https://drive.google.com/drive/folders/1FmSn8wAw8hGlnIv_MsEKlHhkWFOl6fad?usp=sharing">Lista 04</a> - Comandos DML;</li>
+<li><a href="https://drive.google.com/file/d/1fvYi7BOnDBhSIJAu6ZinGyN-A671816G/view?usp=sharing">Lista 04</a> - Comandos DML;</li>
 Aqui foram reforçados os conceitos dos comandos DDL e, também, inseri e manipulei dados utilizando comandos DML.
 <li><a href="https://drive.google.com/file/d/1fvYi7BOnDBhSIJAu6ZinGyN-A671816G/view?usp=sharing">Lista 05</a> - Modelo Lógico;</li>
 Nesta lista, produzi Modelos Lógicos utilizando a ferramenta do MySQL Workbench.
+<li><a href="https://drive.google.com/file/d/1tzLAPmpQ09YvqLpUmEr_6DRZR2E2kYPP/view?usp=sharing">Lista 06</a> - Consultas;</li>
+Para a resolução desta lista, realizei diversos comandos de consulta ("select"), assim pude treinar alguns comandos básicos da ferramenta.
 </ul>
 <p>
 Para a resolução de todas as listas (1 a 5) foi utilizado o programa MySQL Workbench.
